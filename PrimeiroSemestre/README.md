@@ -1,7 +1,7 @@
 # [Ciência da Computação - UNIFEG](https://www.unifeg.edu.br/webacademico/site/descricaocurso.jsp?codigocurso=101)
 
 
-###Período 1
+### Período 1
 * CÁLCULO I
 * FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
 * INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO
