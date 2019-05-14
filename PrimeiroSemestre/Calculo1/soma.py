@@ -6,4 +6,4 @@ n1 = int(input())
 print("digite o numero 2")
 n2 = int(input())
 
-print("resultado: ",n1+n2
+print("resultado: ",n1+n2)
