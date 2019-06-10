@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/05/2019, 19:56:11
+    Author     : aluno
+*/
+body{
+    background-image: url('../imagens/fundo.jpg');
+    background-repeat: no-repeat
+}
+.cabecalho{
+    position: absolute;
+    top: 19px;
+    left: 1200px;
+    font-family:  sans-serif;
+    font-size: 20px;
+    color: black;
+    
+}
+.titulo{
+    text-align: center;
+    font-family: verdana;
+    font-size: larger;
+}
+p{
+    text-align: justify;
+    font-family: verdana;
+    font-size: 15px;
+    color: black;
+    margin: 25px 25px 25px 25px;
+}
+
